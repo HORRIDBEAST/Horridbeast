@@ -1,43 +1,89 @@
-<h1 align="center">Hi 👋, I'm Rajas Deshpande</h1>
-<h3 align="center">Full Stack Web Dev from IIITPune</h3>
+# Rajas Deshpande
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=horridbeast&label=Profile%20views&color=0e75b6&style=flat" alt="horridbeast" /> </p>
+**AI Engineer Intern @ ZS Associates · Full Stack Dev · IIITPune**  
+Building AI agents, distributed systems & things that ship.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=horridbeast" alt="horridbeast" /></a> </p>
+![Open to roles](https://img.shields.io/badge/Open_to-SDE_%2F_AI_roles-1D9E75?style=flat-square)
+![](https://img.shields.io/badge/LangGraph_·_MCP_·_RAG-0F6E56?style=flat-square)
+![](https://img.shields.io/badge/Automation_Testing-185FA5?style=flat-square)
 
-<p align="left"> <a href="https://twitter.com/rajasgd4067" target="blank"><img src="https://img.shields.io/twitter/follow/rajasgd4067?logo=twitter&style=for-the-badge" alt="rajasgd4067" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Automation Testing Framework and LangGraph Agents**
+## About
 
-- 🌱 I’m currently learning **Nestjs , Selenium , Etherium , LangGraph Android**
+I'm a final-year student at IIITPune who builds end-to-end systems — from AI agents that orchestrate multi-step workflows to distributed game servers and blockchain insurance platforms. Currently doing an AI engineering internship at ZS Associates, working on automation testing frameworks and LangGraph-based agents. I like picking hard problems and shipping them.
 
-- 👯 I’m looking to collaborate on [HireHaven : AI powered Job Search Portal](https://github.com/HORRIDBEAST/HireHaven)
+---
 
-- 💬 Ask me about **Springboot , React , Nextjs and Node**
+## Featured Projects
 
-- 📫 How to reach me **rajasgd4067@gmail.com**
+### 🔗 [DecentralizedClaim](https://github.com/HORRIDBEAST/DecDemo) · [Live Demo](https://dec-demo.vercel.app/)
+`NestJS` `FastAPI` `LangGraph` `Polygon` `Next.js` `Vapi.ai` `OpenCV`
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rajas-deshpande-98670b285/](https://www.linkedin.com/in/rajas-deshpande-98670b285/)
+AI-native insurance platform that replaces slow, opaque claims processing with a transparent multi-agent system. Four LangGraph agents (Document, Damage/Vision, Fraud, Settlement) autonomously debate and verify claims in minutes. Every decision is cryptographically anchored on the Polygon blockchain. Features: voice-first intake via Vapi.ai, real-time AI decision streaming via WebSockets, MCP integrations (weather API + market price scraping for fraud detection), hybrid RAG assistant, and role-based admin governance dashboard.
 
-- ⚡ Fun fact **I brush twice or thrice a day and people find it Annoying**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rajasgd4067" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajasgd4067" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajas-deshpande-98670b285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajas-deshpande-98670b285" height="30" width="40" /></a>
-<a href="https://fb.com/61572325414344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="61572325414344" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/horridbeast_rg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="horridbeast_rg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rajasgd4067" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajasgd4067" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/horridbeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="horridbeast" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajasgd4067" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajasgd4067" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rajasg9o8r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajasg9o8r" height="30" width="40" /></a>
-</p>
+### 🎮 [ConFour-Go](https://github.com/HORRIDBEAST/ConFour-Go)
+`Go` `WebSockets` `Goroutines` `Apache Kafka` `PostgreSQL` `Docker`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Real-time distributed 1v1 game server built in Go. Full-duplex WebSocket server handles concurrent sessions with **sub-50ms latency**. Dual-mode matchmaking: Quick Play (with 10s timeout fallback to a heuristic AI bot) and Private Rooms with secure code generation and 40s TTL cleanup. Game events streamed asynchronously to a separate Go consumer via Kafka (Redpanda). Fully Dockerized with Docker Compose.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=horridbeast&show_icons=true&locale=en&layout=compact" alt="horridbeast" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=horridbeast&show_icons=true&locale=en" alt="horridbeast" /></p>
+### 💼 [HireHaven](https://github.com/HORRIDBEAST/HireHaven) · [Video Demo](https://www.loom.com/share/6e49a2b2e1484c0bb89ec19e88f7b61d)
+`Next.js` `Express` `Mistral 7B` `Auth0` `Stripe` `MongoDB`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=horridbeast&" alt="horridbeast" /></p>
+AI job portal connecting job seekers and recruiters. AI mock interview system generates tailored questions and evaluates responses across **100+ job roles**. Resume parser extracts skills and recommends matching roles. Stripe subscription model gates interview attempts, job postings, and applications for free-tier users. 5 major features, 15+ minor.
+
+---
+
+### 🗺️ [WanderPlan](https://wanderplan-nine.vercel.app/) · [Repo](https://github.com/HORRIDBEAST/Wanderplan)
+`React` `Redux` `Firebase` `Gemini` `Google Maps API` `Stripe`
+
+AI trip planner with personalised itinerary generation powered by Google Gemini. Google Maps, Places, Geocoding and Geolocation APIs fully integrated. Redux-powered cost tracker. Stripe-gated premium plans. Deployed on Vercel.
+
+---
+
+### 🧠 [SpectrumInsights](https://github.com/HORRIDBEAST/Spectrum-Insights)
+`Python` `XGBoost` `SMOTE` `scikit-learn` `Streamlit`
+
+ML model predicting Autism Spectrum Disorder from demographic and clinical data. **87% accuracy** on test set, **95% cross-validation accuracy** after hyperparameter tuning with RandomizedSearchCV. SMOTE improved ASD detection rates by **20%**. Deployed as a Streamlit app.
+
+---
+
+### 📐 [MathViz](https://github.com/HORRIDBEAST/MathViz---The-Ultimate-Math-Py-Library)
+`Python` `matplotlib` `SymPy` `NumPy` `PyPI`
+
+Published Python library for interactive mathematical visualization. Algebra and calculus explorers with live parameter sliders, hover tooltips, and full Jupyter Notebook support. 172 passing tests.
+
+```bash
+pip install mathvizpro
+```
+
+---
+
+## Currently Working On
+
+- Automation Testing Framework (TestNG, RestAssured, Selenium) @ ZS Associates  
+- LangGraph multi-agent pipelines with MCP and A2A protocols  
+- Android development · NestJS · Ethereum
+
+---
+
+## Stack
+
+**Languages:** Java · JavaScript · TypeScript · Python · Go · C++ · Solidity  
+**Frontend:** React · Next.js · Redux · Tailwind · Android  
+**Backend:** Node.js · Express · NestJS · Spring Boot · Django · FastAPI  
+**Infra:** Kafka · Docker · PostgreSQL · MongoDB · Redis · Firebase  
+**AI/Agents:** LangGraph · MCP · RAG · A2A · Azure OpenAI · Copilot Studio · Mistral 7B · GPT-4o  
+**Testing:** TestNG · RestAssured · Selenium · Mockito · Postman  
+
+---
+
+## Contact
+
+📧 rajasgd4067@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/rajas-deshpande-98670b285)  
+🐦 [Twitter](https://twitter.com/rajasgd4067)
